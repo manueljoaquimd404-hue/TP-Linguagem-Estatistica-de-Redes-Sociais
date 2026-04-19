@@ -1,6 +1,5 @@
-#Trabalho Prático 1.1: Análise de Dados de Redes Sociais (Frequência e
-Padrões)
-Tema: Desenvolvimento de um script Python para analisar um conjunto de dados simulado de
+# Trabalho Prático 1.1: Análise de Dados de Redes Sociais (Frequência e Padrões)
+## Tema: Desenvolvimento de um script Python para analisar um conjunto de dados simulado de
 posts de redes sociais, identificando palavras-chave, hashtags e menções mais frequentes, e
 padrões de uso.
 Objetivo: Criar um programa que processe um ficheiro de texto (simulando posts de redes
